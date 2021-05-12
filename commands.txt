@@ -1,0 +1,8 @@
+git init
+git add [filename] -A
+git status
+git commit -m "mesaage"
+git remote add origin reponame
+git push origin master
+git clone reponame
+git  pull origin master
